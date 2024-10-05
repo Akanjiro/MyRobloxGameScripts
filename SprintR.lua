@@ -1,3 +1,6 @@
+--[[ Set the file here:
+StarterPlayer/StarterPlayerScripts ]]--
+
 local userInput = game:GetService('UserInputService')
 local Players = game:GetService('Players')
 
