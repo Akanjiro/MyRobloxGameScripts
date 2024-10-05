@@ -1,3 +1,6 @@
+--[[ Set the file here:
+StarterPlayer/StarterCharacterScripts ]]--
+
 local Player = game.Players.LocalPlayer
 local Camera = workspace.CurrentCamera
 local Character = Player.Character or Player.CharacterAdded:Wait()
