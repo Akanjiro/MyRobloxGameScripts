@@ -1,3 +1,6 @@
+--[[ Set the file here:
+StarterPlayer/StarterCharacterScripts ]]--
+
 local UIS = game:GetService("UserInputService")
 local Player = game.Players.LocalPlayer
 local Mouse = Player:GetMouse()
